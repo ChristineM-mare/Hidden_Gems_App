@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable appbackground
+drawable background
+drawable backgroundcolor
+drawable edit_text_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable lock_24px
+drawable logo
+drawable logo2
+drawable outline_account_circle_24
+id footerText
+id loginButton
+id passwordEditText
+id registerText
+id usernameEditText
+id welcomeText
+layout activity_main
+layout activity_splashscreen
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.HiddenGems
+style Theme.HiddenGems
+xml backup_rules
+xml data_extraction_rules
