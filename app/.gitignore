@@ -1,0 +1,6 @@
+# Ignore Android Studio specific files
+.idea/
+*.iml
+
+# Ignore local properties file (can be used to store local settings like SDK paths)
+local.properties
